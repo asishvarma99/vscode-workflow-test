@@ -1,4 +1,7 @@
 import requests
 
-print("VS Code is using the right Python environment")
-print("Requests version:", requests.__version__)
+message = "VS Code debugging is working"
+version = requests.__version__
+
+print(message)
+print("Requests version:", version)

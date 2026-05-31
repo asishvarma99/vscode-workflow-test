@@ -4,22 +4,16 @@ This project verifies my VS Code, Python virtual environment, and dependency set
 
 ## What This Project Tests
 
-- VS Code project setup
+- VS Code project folder setup
 - Python virtual environment
-- Package installation
-- requirements.txt usage
-- Git workflow
+- Python package installation
+- requirements.txt dependency tracking
+- Basic Python script execution
 
 ## Setup
+
+Create and activate a virtual environment:
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-## Run
-
-```bash
-python main.py
-```

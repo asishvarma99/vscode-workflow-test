@@ -21,3 +21,7 @@ source .venv/bin/activate
 ## Git Practice
 
 This project is also used to practice Git commits, GitHub push, and basic developer workflow.
+
+## Branch Practice
+
+This section was added from a separate Git branch.

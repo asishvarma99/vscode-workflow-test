@@ -14,10 +14,6 @@ This project verifies my VS Code, Python virtual environment, and dependency set
 
 Create and activate a virtual environment:
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-
 ## Git Practice
 
 This project is also used to practice Git commits, GitHub push, and basic developer workflow.
@@ -25,3 +21,8 @@ This project is also used to practice Git commits, GitHub push, and basic develo
 ## Branch Practice
 
 This section was added from a separate Git branch.
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+

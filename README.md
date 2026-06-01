@@ -22,6 +22,10 @@ This project is also used to practice Git commits, GitHub push, and basic develo
 
 This section was added from a separate Git branch.
 
+## Pull Request Practice
+
+This section was added to practice the GitHub pull request workflow.
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate

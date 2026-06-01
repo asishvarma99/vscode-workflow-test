@@ -26,6 +26,15 @@ This section was added from a separate Git branch.
 
 This section was added to practice the GitHub pull request workflow.
 
+
+## What I Learned
+
+- How to open a project folder in VS Code
+- How to create and activate a Python virtual environment
+- How to install dependencies and track them in requirements.txt
+- How to use Git commits and GitHub push
+- How to use branches and pull requests
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
